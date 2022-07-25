@@ -1,4 +1,7 @@
 ### Hi there 👋, I am Jahidur Rahman
+![Frontend Developer](https://user-images.githubusercontent.com/63470340/180711071-20340423-aa14-421b-899d-b6316bc6ad02.jpg)
+
+
 “Innovative Front End Developer with two years of experience building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, jQuery, JavaScript, and Angular, plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop & Sketch.“
 
 Skills: ANGULAR / VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP /JQUERY
