@@ -1,7 +1,7 @@
 # Hi there 👋, I am Jahidur Rahman
 
 
-“Innovative Front End Developer with two years of experience building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, jQuery, JavaScript, and Angular, plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop & Sketch.“
+“A Data Enthusiast"
 
 Skills: ANGULAR / VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP /JQUERY
 
